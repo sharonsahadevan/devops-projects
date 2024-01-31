@@ -6,10 +6,9 @@ Welcome to the DevOps Project Challenges Repository. This repository is a curate
 
 ## Repository Structure
 
-- **[Project Folder Name 1]/** - _[Brief Description of Project 1]_
-- **[Project Folder Name 2]/** - _[Brief Description of Project 2]_
-- **[Project Folder Name 3]/** - _[Brief Description of Project 3]_
-- ... _additional project folders as needed_
+- **[Deploying a Flask Application on EKS using Terraform]/** 
+- **[Deploy a Static Website on S3 and Configure Cloudfront]/** 
+- More projects coming soon! 
 
 Each project folder contains its own README with detailed instructions, objectives, and resources specific to that challenge.
 
